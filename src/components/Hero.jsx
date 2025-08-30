@@ -59,7 +59,7 @@ useEffect(() => {
   };
 
   return (
-    <section id='temoignages' className="relative bg-gradient-to-br mt-15 from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800 py-12 px-4 md:px-8 overflow-hidden">
+    <section  className="relative bg-gradient-to-br mt-15 from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800 py-12 px-4 md:px-8 overflow-hidden">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
      
